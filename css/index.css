@@ -230,3 +230,11 @@ a[href].direct-link:focus:visited,
   width: 32px;
   height: 32px;
 }
+
+/* Colors */
+.red {
+  color: red;
+}
+.magenta {
+  color: magenta;
+}
