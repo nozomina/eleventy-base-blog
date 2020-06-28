@@ -11,10 +11,19 @@ Based on <https://twitter.com/haaton11/status/1275353642128642048>.
 
 ガチャ|期間|&nbsp;|キャラ
 :-----|:--:|-----:|:-----
+限定 {.red}      | 05/31 ~ 06/15 | ![](/img/unit/109731.webp){.thumbnail} | レム
+限定 {.red}      | 06/18 ~ 06/30 | ![](/img/unit/109931.webp){.thumbnail} | エミリア
+限定 {.red}      | 06/30 ~ 07/13 | ![](/img/unit/110031.webp){.thumbnail} | スズナ（サマー）
+復刻限定 {.red}  | 07/13 ~ 07/18 | ![](/img/unit/107831.webp){.thumbnail} ![](/img/unit/107531.webp){.thumbnail} | キャル（サマー） ペコリーヌ（サマー）
+限定 {.red}      | 07/18 ~ 07/31 | ![](/img/unit/110331.webp){.thumbnail} | サレン（サマー）
+限定 {.red}      | 07/31 ~ 08/10 | ![](/img/unit/110431.webp){.thumbnail} | マコト（サマー）
+復刻限定 {.red}  | 08/10 ~ 08/15 | ![](/img/unit/107931.webp){.thumbnail} ![](/img/unit/107731.webp){.thumbnail} | タマキ（サマー） スズメ（サマー）
+限定 {.red}      | 08/15 ~ 08/26 | ![](/img/unit/110631.webp){.thumbnail} | マホ（サマー）
 プリフェス限定 {.magenta} | 08/31 ~ 09/03 | ![](/img/unit/107031.webp){.thumbnail} | ネネカ
-恒常             | 09/03 ~ 09/16 | ![](/img/unit/110731.webp){.thumbnail} | アオイ（編入生）
+恒常             | 09/03 ~ 09/12 | ![](/img/unit/110731.webp){.thumbnail} | アオイ（編入生）
+プライズ         | 09/12 ~ 09/16 | ![](/img/unit/106331.webp){.thumbnail} ![](/img/unit/105731.webp){.thumbnail} | アリサ ジータ
 恒常             | 09/16 ~ 09/29 | ![](/img/unit/110831.webp){.thumbnail} | クロエ
-プリフェス限定 {.magenta} | 09/29 ~ 09/30 | &nbsp;
+プリフェス限定 {.magenta} | 09/29 ~ 09/30 | ![](/img/unit/107031.webp){.thumbnail} | ネネカ
 限定 {.red}      | 09/30 ~ 10/11 | ![](/img/unit/111131.webp){.thumbnail} | キョウカ（ハロウィン）
 復刻限定 {.red}  | 10/11 ~ 10/16 | ![](/img/unit/108331.webp){.thumbnail} ![](/img/unit/108131.webp){.thumbnail} | ミサキ（ハロウィン） シノブ（ハロウィン）
 恒常             | 10/16 ~ 10/31 | ![](/img/unit/111331.webp){.thumbnail} | ミミ（ハロウィン）
