@@ -84,4 +84,6 @@ Based on <https://twitter.com/haaton11/status/1275353642128642048>.
 恒常             | 06/17 ~ 06/24 | ![](/img/unit/106631.webp){.thumbnail} | イノリ
 復刻限定 {.red}  | 06/24 ~ 06/30 | ![](/img/unit/111531.webp){.thumbnail} | クリスティーナ（クリスマス）
 プリフェス限定 {.magenta} | 06/30 ~ 07/03 | ![](/img/unit/180231.webp){.thumbnail} | ユイ（プリンセス）
+限定 {.red}      | 07/03 ~ 07/10 | ![](/img/unit/113131.webp){.thumbnail} | ルカ（サマー）
+復刻限定 {.red}  | 07/10 ~ 07/15 | ![](/img/unit/110431.webp){.thumbnail} ![](/img/unit/110631.webp){.thumbnail} | マコト（サマー） マホ（サマー）
 
