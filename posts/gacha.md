@@ -86,4 +86,6 @@ Based on <https://twitter.com/haaton11/status/1275353642128642048>.
 プリフェス限定 {.magenta} | 06/30 ~ 07/03 | ![](/img/unit/180231.webp){.thumbnail} | ユイ（プリンセス）
 限定 {.red}      | 07/03 ~ 07/10 | ![](/img/unit/113131.webp){.thumbnail} | ルカ（サマー）
 復刻限定 {.red}  | 07/10 ~ 07/15 | ![](/img/unit/110431.webp){.thumbnail} ![](/img/unit/110631.webp){.thumbnail} | マコト（サマー） マホ（サマー）
+恒常             | 07/15 ~ 07/22 | ![](/img/unit/113331.webp){.thumbnail} | ナナカ（サマー）
+復刻限定 {.red}  | 07/22 ~ 07/xx | ![](/img/unit/112031.webp){.thumbnail} ![](/img/unit/111931.webp){.thumbnail} | キャル（ニューイヤー） コッコロ（ニューイヤー）
 
