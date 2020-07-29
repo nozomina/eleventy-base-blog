@@ -41,7 +41,7 @@ Based on <https://twitter.com/haaton11/status/1275353642128642048>.
 限定 {.red}      | 05/31 ~ 06/15 | ![](/img/unit/109731.webp){.thumbnail} | レム
 限定 {.red}      | 06/18 ~ 06/30 | ![](/img/unit/109931.webp){.thumbnail} | エミリア
 限定 {.red}      | 06/30 ~ 07/13 | ![](/img/unit/110031.webp){.thumbnail} | スズナ（サマー）
-復刻限定 {.red}  | 07/13 ~ 07/18 | ![](/img/unit/107831.webp){.thumbnail} ![](/img/unit/107531.webp){.thumbnail} | キャル（サマー） ペコリーヌ（サマー）
+復刻限定 {.red}  | 07/13 ~ 07/18 | ![](/img/unit/107531.webp){.thumbnail} ![](/img/unit/107831.webp){.thumbnail} | ペコリーヌ（サマー） キャル（サマー）
 限定 {.red}      | 07/18 ~ 07/31 | ![](/img/unit/110331.webp){.thumbnail} | サレン（サマー）
 限定 {.red}      | 07/31 ~ 08/10 | ![](/img/unit/110431.webp){.thumbnail} | マコト（サマー）
 復刻限定 {.red}  | 08/10 ~ 08/15 | ![](/img/unit/107931.webp){.thumbnail} ![](/img/unit/107731.webp){.thumbnail} | タマキ（サマー） スズメ（サマー）
@@ -87,5 +87,6 @@ Based on <https://twitter.com/haaton11/status/1275353642128642048>.
 限定 {.red}      | 07/03 ~ 07/10 | ![](/img/unit/113131.webp){.thumbnail} | ルカ（サマー）
 復刻限定 {.red}  | 07/10 ~ 07/15 | ![](/img/unit/110431.webp){.thumbnail} ![](/img/unit/110631.webp){.thumbnail} | マコト（サマー） マホ（サマー）
 恒常             | 07/15 ~ 07/22 | ![](/img/unit/113331.webp){.thumbnail} | ナナカ（サマー）
-復刻限定 {.red}  | 07/22 ~ 07/xx | ![](/img/unit/112031.webp){.thumbnail} ![](/img/unit/111931.webp){.thumbnail} | キャル（ニューイヤー） コッコロ（ニューイヤー）
+復刻限定 {.red}  | 07/22 ~ 07/27 | ![](/img/unit/112031.webp){.thumbnail} ![](/img/unit/111931.webp){.thumbnail} | キャル（ニューイヤー） コッコロ（ニューイヤー）
+復刻限定 {.red}  | 07/27 ~ 07/31 | ![](/img/unit/107531.webp){.thumbnail} ![](/img/unit/107831.webp){.thumbnail} | ペコリーヌ（サマー） キャル（サマー）
 
