@@ -23,15 +23,15 @@ Initial|Princess|Alt (2018)|Alt (2019)|Alt (2020)
 ![](/img/unit/102031.webp){.thumbnail} | | | ![](/img/unit/111331.webp){.thumbnail} |
 ![](/img/unit/100431.webp){.thumbnail} | | | ![](/img/unit/111231.webp){.thumbnail} |
 ![](/img/unit/103631.webp){.thumbnail} | | | ![](/img/unit/111131.webp){.thumbnail} |
-![](/img/unit/101231.webp){.thumbnail} | | | |
-![](/img/unit/101531.webp){.thumbnail} | | | |
+![](/img/unit/101231.webp){.thumbnail} | | | | ![](/img/unit/113431.webp){.thumbnail}
+![](/img/unit/101531.webp){.thumbnail} | | | | ![](/img/unit/113531.webp){.thumbnail}
 ![](/img/unit/104031.webp){.thumbnail} | | | ![](/img/unit/110731.webp){.thumbnail} |
 ![](/img/unit/104431.webp){.thumbnail} | | | ![](/img/unit/111731.webp){.thumbnail} |
 ![](/img/unit/102231.webp){.thumbnail} | | | |
 ![](/img/unit/100631.webp){.thumbnail} | | | |
 ![](/img/unit/103131.webp){.thumbnail} | | ![](/img/unit/108131.webp){.thumbnail} | |
 ![](/img/unit/100731.webp){.thumbnail} | | ![](/img/unit/108231.webp){.thumbnail} | |
-![](/img/unit/104731.webp){.thumbnail} | | | |
+![](/img/unit/104731.webp){.thumbnail} | | | | ![](/img/unit/113631.webp){.thumbnail}
 ![](/img/unit/107131.webp){.thumbnail} | | | ![](/img/unit/111531.webp){.thumbnail} |
 ![](/img/unit/103731.webp){.thumbnail} | | | |
 ![](/img/unit/100531.webp){.thumbnail} | | | |
