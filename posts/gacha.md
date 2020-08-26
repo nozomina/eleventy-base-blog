@@ -91,4 +91,6 @@ Based on <https://twitter.com/haaton11/status/1275353642128642048>.
 復刻限定 {.red}  | 07/27 ~ 07/31 | ![](/img/unit/107531.webp){.thumbnail} ![](/img/unit/107831.webp){.thumbnail} | ペコリーヌ（サマー） キャル（サマー）
 限定 {.red}      | 07/31 ~ 08/10 | ![](/img/unit/113431.webp){.thumbnail} | ハツネ（サマー）
 プライズ         | 08/10 ~ 08/15 | ![](/img/unit/110831.webp){.thumbnail} ![](/img/unit/110731.webp){.thumbnail} | クロエ アオイ（編入生）
+恒常             | 08/15 ~ 08/26 | ![](/img/unit/113631.webp){.thumbnail} | ジュン（サマー）
+復刻限定 {.red}  | 08/26 ~ 08/31 | ![](/img/unit/107931.webp){.thumbnail} ![](/img/unit/107731.webp){.thumbnail} | タマキ（サマー） スズメ（サマー）
 
