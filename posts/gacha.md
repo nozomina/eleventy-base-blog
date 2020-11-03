@@ -93,4 +93,13 @@ Based on <https://twitter.com/haaton11/status/1275353642128642048>.
 プライズ         | 08/10 ~ 08/15 | ![](/img/unit/110831.webp){.thumbnail} ![](/img/unit/110731.webp){.thumbnail} | クロエ アオイ（編入生）
 恒常             | 08/15 ~ 08/26 | ![](/img/unit/113631.webp){.thumbnail} | ジュン（サマー）
 復刻限定 {.red}  | 08/26 ~ 08/31 | ![](/img/unit/107931.webp){.thumbnail} ![](/img/unit/107731.webp){.thumbnail} | タマキ（サマー） スズメ（サマー）
+プリフェス限定 {.magenta} | 08/31 ~ 09/03 | ![](/img/unit/106831.webp){.thumbnail} | ラビリスタ
+恒常             | 09/03 ~ 09/14 | ![](/img/unit/113731.webp){.thumbnail} | アカリ（エンジェル）
+復刻限定 {.red}  | 09/14 ~ 09/19 | ![](/img/unit/111131.webp){.thumbnail} ![](/img/unit/111331.webp){.thumbnail} | キョウカ（ハロウィ>ン） ミミ（ハロウィン）
+恒常             | 09/19 ~ 09/30 | ![](/img/unit/113831.webp){.thumbnail} | ヨリ（エンジェル）
+限定 {.red}      | 09/30 ~ 10/10 | ![](/img/unit/113931.webp){.thumbnail} | ツムギ（ハロウィン）
+プライズ         | 10/10 ~ 10/15 | ![](/img/unit/111431.webp){.thumbnail} ![](/img/unit/106531.webp){.thumbnail} | ルナ カヤ
+限定 {.red}      | 10/15 ~ 10/26 | ![](/img/unit/114031.webp){.thumbnail} | レイ（ハロウィン）
+復刻限定 {.red}  | 10/26 ~ 10/31 | ![](/img/unit/108331.webp){.thumbnail} ![](/img/unit/108131.webp){.thumbnail} | ミサキ（ハロウィン） シノブ（ハロウィン）
+恒常             | 10/31 ~ 11/10 | ![](/img/unit/114231.webp){.thumbnail} | モニカ（マジカル）
 

@@ -11,15 +11,15 @@ Initial|Princess|Alt (2018)|Alt (2019)|Alt (2020)
 :------|:-------|:---------|:---------|:---------
 ![](/img/unit/105831.webp){.thumbnail} | ![](/img/unit/180431.webp){.thumbnail} | ![](/img/unit/107531.webp){.thumbnail} | |
 ![](/img/unit/105931.webp){.thumbnail} | ![](/img/unit/180531.webp){.thumbnail} | ![](/img/unit/107631.webp){.thumbnail} | | ![](/img/unit/111931.webp){.thumbnail}
-![](/img/unit/106031.webp){.thumbnail} | | ![](/img/unit/107831.webp){.thumbnail} | ![](/img/unit/191231.webp){.thumbnail} | ![](/img/unit/112031.webp){.thumbnail}
+![](/img/unit/106031.webp){.thumbnail} | | ![](/img/unit/107831.webp){.thumbnail} | | ![](/img/unit/112031.webp){.thumbnail}
 ![](/img/unit/100131.webp){.thumbnail} | | | ![](/img/unit/108731.webp){.thumbnail} |
 ![](/img/unit/100231.webp){.thumbnail} | ![](/img/unit/180231.webp){.thumbnail} | | ![](/img/unit/108831.webp){.thumbnail} |
-![](/img/unit/100331.webp){.thumbnail} | | | ![](/img/unit/108931.webp){.thumbnail} |
+![](/img/unit/100331.webp){.thumbnail} | | | ![](/img/unit/108931.webp){.thumbnail} | ![](/img/unit/114031.webp){.thumbnail}
 ![](/img/unit/104931.webp){.thumbnail} | | | ![](/img/unit/109131.webp){.thumbnail} |
 ![](/img/unit/101131.webp){.thumbnail} | | | | ![](/img/unit/112931.webp){.thumbnail}
 ![](/img/unit/102931.webp){.thumbnail} | | | ![](/img/unit/111631.webp){.thumbnail} |
 ![](/img/unit/104231.webp){.thumbnail} | | ![](/img/unit/108431.webp){.thumbnail} | |
-![](/img/unit/105431.webp){.thumbnail} | | | |
+![](/img/unit/105431.webp){.thumbnail} | | | | ![](/img/unit/113931.webp){.thumbnail}
 ![](/img/unit/102031.webp){.thumbnail} | | | ![](/img/unit/111331.webp){.thumbnail} |
 ![](/img/unit/100431.webp){.thumbnail} | | | ![](/img/unit/111231.webp){.thumbnail} |
 ![](/img/unit/103631.webp){.thumbnail} | | | ![](/img/unit/111131.webp){.thumbnail} |
@@ -27,8 +27,8 @@ Initial|Princess|Alt (2018)|Alt (2019)|Alt (2020)
 ![](/img/unit/101531.webp){.thumbnail} | | | | ![](/img/unit/113531.webp){.thumbnail}
 ![](/img/unit/104031.webp){.thumbnail} | | | ![](/img/unit/110731.webp){.thumbnail} |
 ![](/img/unit/104431.webp){.thumbnail} | | | ![](/img/unit/111731.webp){.thumbnail} |
-![](/img/unit/102231.webp){.thumbnail} | | | |
-![](/img/unit/100631.webp){.thumbnail} | | | |
+![](/img/unit/102231.webp){.thumbnail} | | | | ![](/img/unit/113831.webp){.thumbnail}
+![](/img/unit/100631.webp){.thumbnail} | | | | ![](/img/unit/113731.webp){.thumbnail}
 ![](/img/unit/103131.webp){.thumbnail} | | ![](/img/unit/108131.webp){.thumbnail} | |
 ![](/img/unit/100731.webp){.thumbnail} | | ![](/img/unit/108231.webp){.thumbnail} | |
 ![](/img/unit/104731.webp){.thumbnail} | | | | ![](/img/unit/113631.webp){.thumbnail}
@@ -59,7 +59,7 @@ Initial|Princess|Alt (2018)|Alt (2019)|Alt (2020)
 ![](/img/unit/105031.webp){.thumbnail} | | ![](/img/unit/108331.webp){.thumbnail} | |
 ![](/img/unit/101631.webp){.thumbnail} | | | ![](/img/unit/110031.webp){.thumbnail} |
 ![](/img/unit/101831.webp){.thumbnail} | | | ![](/img/unit/110131.webp){.thumbnail} |
-![](/img/unit/105331.webp){.thumbnail} | | | |
+![](/img/unit/105331.webp){.thumbnail} | | | | ![](/img/unit/114231.webp){.thumbnail}
 ![](/img/unit/100831.webp){.thumbnail} | | | |
 ![](/img/unit/104531.webp){.thumbnail} | | | ![](/img/unit/109531.webp){.thumbnail} |
 ![](/img/unit/103031.webp){.thumbnail} | | | ![](/img/unit/109631.webp){.thumbnail} |
@@ -69,6 +69,7 @@ Initial|Princess|Alt (2018)|Alt (2019)|Alt (2020)
 ![](/img/unit/111031.webp){.thumbnail} | | | |
 ![](/img/unit/106531.webp){.thumbnail} | | | |
 ![](/img/unit/106631.webp){.thumbnail} | | | |
+![](/img/unit/106831.webp){.thumbnail} | | | |
 ![](/img/unit/107031.webp){.thumbnail} | | | |
 ![](/img/unit/106131.webp){.thumbnail} | | | |
 ![](/img/unit/106331.webp){.thumbnail} | | | |
